@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiService", "ApiService\ApiService.csproj", "{31364215-FEF2-4F34-A0C5-1870A9E624C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31364215-FEF2-4F34-A0C5-1870A9E624C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31364215-FEF2-4F34-A0C5-1870A9E624C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31364215-FEF2-4F34-A0C5-1870A9E624C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31364215-FEF2-4F34-A0C5-1870A9E624C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A0B7033-B63F-4EBD-8B9F-05890F08B6DB}
+	EndGlobalSection
+EndGlobal
